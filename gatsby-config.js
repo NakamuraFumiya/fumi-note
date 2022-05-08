@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Fumiya Nakamura`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Fumiya Nakamura`,
+      summary: `who lives and works in Kamakura building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Transmitting your learning as an engineer.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `NakamuraFumiya3`,
     },
   },
   plugins: [
