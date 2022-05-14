@@ -52,7 +52,7 @@ ITエンジニアの登竜門と言われる試験。
 
 
 ## 過去問道場
-![スクリーンショット 2021-06-24 19.24.23.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/564392/1a5cb4e5-7132-8dcc-5521-9c9efdf492f8.png)
+<!-- ![スクリーンショット 2021-06-24 19.24.23.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/564392/1a5cb4e5-7132-8dcc-5521-9c9efdf492f8.png) -->
 解説付きで過去問が載っているので、ありがたく使わさせていただきました！
 サイトにも記載がありましたが、過去問は最低でも4回分、余裕があれば8〜12回分を解くと良いそうです。
 
